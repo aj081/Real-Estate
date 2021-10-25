@@ -1,4 +1,4 @@
-# Real-Estate
+# Real Estate Analysis
 Hello everyone!
 
 In this notebook we start using ML algorithms to analyse a usual dataset. We are going to use Linear Regression method for create a model on dataset and then evaluate the results!
