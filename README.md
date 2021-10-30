@@ -12,4 +12,3 @@ If we have x feature for predicting y (target variable) linear regressions gener
 
 We use Real Estate dataset to make a model that predict house prices based on 6 features. In the following, You can realize more about dataset.
 
-THANK YOU!
